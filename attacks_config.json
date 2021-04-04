@@ -1,0 +1,8 @@
+[
+    {
+        "name": "PING",
+        "commands": ["ping -c 4 127.1", "nslookup google.com"],
+        "run_at": [],
+        "delay_min": 2
+    }
+]
